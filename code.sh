@@ -4,3 +4,4 @@
 see you for the next class
 jacques
 albert
+I'm doing some git command test on this file
